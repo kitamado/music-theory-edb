@@ -42,7 +42,7 @@
 
 8. Which interrupted (or deceptive) cadence finishes on this chord?
 
-   ![8](./https://github.com/kitamado/music-theory-edb/blob/main/Quiz5/8.png)
+   ![8](https://github.com/kitamado/music-theory-edb/blob/main/Quiz5/8.png)
 
    - Interrupted cadence in C  minor
 
