@@ -8,14 +8,14 @@
 
 2. Choose which of the following triads are in FIRST inversion (b):
 
-   ![2](2.png)
+   ![2](./2.png)
 
    - 2
    - 4
 
 3. Which one of these triads is Vc (second inversion of the dominant) in D major? 
 
-   ![3](3.png)
+   ![3](./3.png)
 
    - 1
 
@@ -32,7 +32,7 @@
 
 6. Which kind of cadence is this?
 
-   ![6](6.png)
+   ![6](./6.png)
 
    - Imperfect or Half Cadence
 
@@ -42,13 +42,13 @@
 
 8. Which interrupted (or deceptive) cadence finishes on this chord?
 
-   ![8](8.png)
+   ![8](./8.png)
 
    - Interrupted cadence in C  minor
 
 9. The following chords are the last three bars of a Stevie Wonder song (we've simplified them a little): 
 
-   ![img](9.png)
+   ![9](./9.png)
 
    Firstly what key is this song MOST likely to be in?
 
@@ -56,7 +56,7 @@
 
 10. With reference to the previous question, which of the following statements would describe the attributes of the FIRST chord?
 
-    ![](10.png)
+    ![10](./10.png)
 
     - It is a secondary dominant
     - It has a chromatically altered note.(i.e.  a note that is not in the key)
